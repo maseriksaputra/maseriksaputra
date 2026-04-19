@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-I am a Full Stack Developer and a Computer Science graduate from Universitas An Nuur, Purwodadi. I specialize in building scalable web and mobile applications while simultaneously pushing the boundaries of medical image analysis through Deep Learning. My current research heavily focuses on advanced architectures like the Hybrid Residual-Attention U-Net for complex semantic segmentation tasks on CT Scans. Beyond medical AI, I also develop intelligent systems for the agricultural sector, having integrated models like YOLOv7 and MobileNetV3 into real-world applications such as the E-Buyur Market, which earned a spot as a finalist in the 38th National Student Scientific Week (PIMNAS). I thrive in dynamic environments where I can leverage my expertise in Laravel, JavaScript, and PyTorch to architect end-to-end solutions that solve impactful real-world problems.
+I am a Full Stack Developer and a Computer Science graduate from Universitas An Nuur. I specialize in building scalable web and mobile applications while simultaneously pushing the boundaries of medical image analysis through Deep Learning. My current research heavily focuses on advanced architectures like the Hybrid Residual-Attention U-Net for complex semantic segmentation tasks on CT Scans. Beyond medical AI, I also develop intelligent systems for the agricultural sector, having integrated models like YOLOv7 and MobileNetV3 into real-world applications such as the E-Buyur Market, which earned a spot as a finalist in the 38th National Student Scientific Week (PIMNAS). I thrive in dynamic environments where I can leverage my expertise in Laravel, JavaScript, and PyTorch to architect end-to-end solutions that solve impactful real-world problems.
 
 ## 🛠️ Tech Stack & Tools
 
@@ -21,22 +21,23 @@ I am a Full Stack Developer and a Computer Science graduate from Universitas An 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_ANDA&show_icons=true&theme=radium&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/maseriksaputra">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maseriksaputra&show_icons=true&theme=radium&include_all_commits=true&count_private=true"/>
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-streak-stats">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_GITHUB_ANDA&theme=radium"/>
+  <a href="https://github.com/maseriksaputra">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=maseriksaputra&theme=radium"/>
   </a>
 </div>
 
 ## 🚀 Highlighted Projects
 
 <div align="center">
-  <a href="https://github.com/USERNAME_GITHUB_ANDA/NAMA_REPO_SKRIPSI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME_GITHUB_ANDA&repo=NAMA_REPO_SKRIPSI&theme=radium" />
+  <a href="https://github.com/maseriksaputra/e_buyur_market">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=maseriksaputra&repo=e_buyur_market&theme=radium" />
   </a>
-  <a href="https://github.com/USERNAME_GITHUB_ANDA/e-buyur-market">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME_GITHUB_ANDA&repo=e-buyur-market&theme=radium" />
+  
+  <a href="https://github.com/maseriksaputra/NAMA_REPO_SKRIPSI_ANDA">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=maseriksaputra&repo=NAMA_REPO_SKRIPSI_ANDA&theme=radium" />
   </a>
 </div>
 
