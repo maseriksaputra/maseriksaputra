@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-I am a Full Stack Developer and a Computer Science graduate from Universitas An Nuur. I specialize in building scalable web and mobile applications while simultaneously pushing the boundaries of medical image analysis through Deep Learning. My current research heavily focuses on advanced architectures like the Hybrid Residual-Attention U-Net for complex semantic segmentation tasks on CT Scans. Beyond medical AI, I also develop intelligent systems for the agricultural sector, having integrated models like YOLOv7 and MobileNetV3 into real-world applications such as the E-Buyur Market, which earned a spot as a finalist in the 38th National Student Scientific Week (PIMNAS). I thrive in dynamic environments where I can leverage my expertise in Laravel, JavaScript, and PyTorch to architect end-to-end solutions that solve impactful real-world problems.
+I am a Full Stack Developer and a Computer Science graduate. I specialize in building scalable web and mobile applications while simultaneously pushing the boundaries of medical image analysis through Deep Learning. My current research heavily focuses on advanced architectures like the Hybrid Residual-Attention U-Net for complex semantic segmentation tasks on CT Scans. Beyond medical AI, I also develop intelligent systems for the agricultural sector, having integrated models like YOLOv7 and MobileNetV3 into real-world applications such as the E-Buyur Market, which earned a spot as a finalist in the 38th National Student Scientific Week (PIMNAS). I thrive in dynamic environments where I can leverage my expertise in Laravel, JavaScript, and PyTorch to architect end-to-end solutions that solve impactful real-world problems.
 
 ## 🛠️ Tech Stack & Tools
 
@@ -34,10 +34,6 @@ I am a Full Stack Developer and a Computer Science graduate from Universitas An 
 <div align="center">
   <a href="https://github.com/maseriksaputra/e_buyur_market">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=maseriksaputra&repo=e_buyur_market&theme=radium" />
-  </a>
-  
-  <a href="https://github.com/maseriksaputra/NAMA_REPO_SKRIPSI_ANDA">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=maseriksaputra&repo=NAMA_REPO_SKRIPSI_ANDA&theme=radium" />
   </a>
 </div>
 
